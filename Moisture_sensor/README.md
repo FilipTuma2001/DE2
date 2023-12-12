@@ -36,7 +36,7 @@ Direct link to source files in [src](https://github.com/FilipTuma2001/DE2/tree/m
 
 Using this system is easy:
 1. Connect power to the Arduino UNO and upload the code
-2. Put moisture sensor in the soil
+2. Put moisture sensor into the soil in recommended depth
 3. Place the display somewhere visible
 4. Install solenoid onto your plant-watering-system.
 5. You can also check the room temperature via DHT12 sensor
