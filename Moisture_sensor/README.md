@@ -51,4 +51,4 @@ Using this system is easy:
 2. [ATmega328p datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 3. [Soil Moisture sensor V1.2 description](https://www.robotics.org.za/CAP-SW-12)
 4. [OLED Display detasheet](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf)
-5. [Temperature and humidity sensor DHT12](https://datasheetspdf.com/pdf-file/1147840/Aosong/DHT12/1)
+5. [Temperature and humidity sensor DHT12 datasheet](https://datasheetspdf.com/pdf-file/1147840/Aosong/DHT12/1)
