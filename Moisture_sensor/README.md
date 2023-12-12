@@ -37,8 +37,6 @@ Using this system is easy:
 **Final form of the project**
 ![Photos](Photos/Completed%20project.jpeg)
 
-**Short demonstration of how it works**
-![Photos](Photos/TEST.mp3)
 
 ## References
 
