@@ -15,7 +15,7 @@ Our task for this project was to built smart plant watering system with Arduino 
 
 Our system will check soil moisture every 8 seconds with Soill Moisture Sensor V1.2. Once we read this data we will display it on OLED screen to let user know. Everything is powered by 5V from Arduino and connected to same GND. Soil moisture sensor analog output is connected to A0 (mandatory). OLED display uses I2C communication so it is connected to `SCL` and `SDA` pins. Relay input is controlled and connected to Arduino via digital PIN 8. The last thing is Temperature and humidity sensor DHT12. This module also uses I2C communication so it is connected to `SCL` and `SDA` pins.
 
-**Schematic of our wiring**
+**Schematic of our wiring:**
 ![Schematics](Schematics/UNO_schem.PNG)
 
 ## Software description
@@ -41,7 +41,7 @@ Using this system is easy:
 4. Install solenoid onto your plant-watering-system.
 5. You can also check the room temperature via DHT12 sensor
 
-**Final form of the project**
+**Final form of the project:**
 ![Photos](Photos/Completed%20project.jpeg)
 
 
