@@ -48,7 +48,7 @@ Using this system is easy:
 ## References
 
 1. [Tomas Fryza's digital-electronics-2 repository](https://github.com/tomas-fryza/digital-electronics-2/tree/master)
-2. [Working principle and hacking a capacitive soil moisture sensor]([https://datasheetspdf.com/pdf-file/1147840/Aosong/DHT12/1](https://thecavepearlproject.org/2020/10/27/hacking-a-capacitive-soil-moisture-sensor-for-frequency-output/)
+2. [Working principle and hacking a capacitive soil moisture sensor](https://thecavepearlproject.org/2020/10/27/hacking-a-capacitive-soil-moisture-sensor-for-frequency-output/)
 3. [ATmega328p datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 4. [Soil Moisture sensor V1.2 description](https://www.robotics.org.za/CAP-SW-12)
 5. [OLED Display detasheet](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf)
