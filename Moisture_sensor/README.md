@@ -20,13 +20,11 @@ Our system will check soil moisture every 8 seconds with Soill Moisture Sensor V
 
 ## Software description
 
-// Put flowchats of your algorithm(s) and direct links to source files in `src` or `lib` folders.
 Data from soil moisture sensor needs to be put through internal Analog-to-digital converter on the Arduino board, which is utilized in the `main(void)` of our [main.c](src/main.c). It also needs `ISR(ADC_vect)`. Every pin we are using is hard-coded and therefore mandatory, this could be improved by libraries. For OLED and temperature sensor we are using IIC communication timed via `TIMER0`
 
 
 ## Instructions
 
-// Write an instruction manual for your application, including photos and a link to a short app video.
 Using this system is easy:
 1. Connect power to the Arduino UNO and upload the code
 2. Put moisture sensor in the soil
