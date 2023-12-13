@@ -44,7 +44,9 @@ Using this system is easy:
 **Final form of the project:**
 ![Photos](Photos/Completed%20project.jpeg)
 
-https://youtu.be/CLtIR6DckKM
+**Short demonstration of how it works:**
+![Watch the video](https://youtu.be/CLtIR6DckKM)
+
 
 ## References
 
