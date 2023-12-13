@@ -45,8 +45,7 @@ Using this system is easy:
 ![Photos](Photos/Completed%20project.jpeg)
 
 **Short demonstration of how it works:**
-![Watch the video](https://youtu.be/CLtIR6DckKM)
-
+[![Photos](Photos/Completed%20project.jpeg)](https://youtu.be/CLtIR6DckKM)
 
 ## References
 
